@@ -41,5 +41,5 @@ I invite you to this world of AI that could be the next Pandora, are you ready t
 
 <!--
 ## Stargazers
-[![Stargazers repo roster for @MaheepChaudhary/MaheepChaudhary](https://reporoster.com/stars/MaheepChaudhary/MaheepChaudhary)](https://github.com/MaheepChaudhary/MaheepChaudhary/stargazers)
+[![Stargazers repo roster for @siddhant230/siddhant230](https://reporoster.com/stars/siddhant230/Siddhant-Rai)](https://github.com/siddhant230/Siddhant-Rai/stargazers)
 -->
