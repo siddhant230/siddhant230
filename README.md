@@ -7,7 +7,7 @@ Research Engineer - ML @ Siemens
 I am an Artificial Intelligence and deep learning enthusiast. I love to explore new things and learn about them. I am mesmerized by the amount of audacity Artificial Intelligence holds to empower our lives. I am into competitive coding too, I am currently in the top 1400 on Hacker Rank worldwide. I love to code things from scratch, from making a Multi-layered Artificial Neural Network to writing my Genetic Algorithms to play a game like pong, flappy bird, etc. I invite you to this world of AI that could be the next Pandora, are you ready to embrace yourself as the next Pandoran?
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [rsiddhnat73@gmail.com](mailto:rsiddhnat73@gmail.com)
+* ✉️  You can contact me at [rsiddhant73@gmail.com](mailto:rsiddhant73@gmail.com)
 * 🧠  I'm learning Uncertainty in Machine learning
 
 <a href="https://www.github.com/siddhant230" target="_blank" rel="noreferrer"><img
