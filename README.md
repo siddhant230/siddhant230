@@ -8,7 +8,7 @@ I am an Artificial Intelligence and deep learning enthusiast. I love to explore 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rsiddhant73@gmail.com](mailto:rsiddhant73@gmail.com)
-* 🧠  I'm learning Uncertainty in Machine learning
+* 🧠  I'm exploring Uncertainty in Machine learning and ways to effectively handle it.
 
 <a href="https://www.github.com/siddhant230" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/siddhant230?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
